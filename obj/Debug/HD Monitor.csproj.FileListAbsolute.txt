@@ -1,0 +1,14 @@
+C:\Users\LemonjaxDev\Desktop\HD Monitor\bin\Debug\HD Monitor.exe.config
+C:\Users\LemonjaxDev\Desktop\HD Monitor\bin\Debug\HD Monitor.exe
+C:\Users\LemonjaxDev\Desktop\HD Monitor\bin\Debug\HD Monitor.pdb
+C:\Users\LemonjaxDev\Desktop\HD Monitor\obj\Debug\HD Monitor.csprojResolveAssemblyReference.cache
+C:\Users\LemonjaxDev\Desktop\HD Monitor\obj\Debug\HD_Monitor.Properties.Resources.resources
+C:\Users\LemonjaxDev\Desktop\HD Monitor\obj\Debug\HD Monitor.csproj.GenerateResource.Cache
+C:\Users\LemonjaxDev\Desktop\HD Monitor\obj\Debug\HD Monitor.exe
+C:\Users\LemonjaxDev\Desktop\HD Monitor\obj\Debug\HD Monitor.pdb
+C:\Users\LemonjaxDev\Desktop\HD Monitor\bin\Debug\HDD_Busy.ico
+C:\Users\LemonjaxDev\Desktop\HD Monitor\bin\Debug\HDD_Idle.ico
+C:\Users\LemonjaxDev\Desktop\HD Monitor\obj\Debug\HD_Monitor.HiddenForm.resources
+C:\Users\LemonjaxDev\Documents\HD-Monitor\bin\Debug\HD Monitor.exe.config
+C:\Users\LemonjaxDev\Documents\HD-Monitor\obj\Debug\HD Monitor.exe
+C:\Users\LemonjaxDev\Documents\HD-Monitor\obj\Debug\HD Monitor.pdb

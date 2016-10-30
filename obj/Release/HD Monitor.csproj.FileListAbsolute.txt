@@ -1,0 +1,10 @@
+C:\Users\LemonjaxDev\Documents\HD-Monitor\bin\Release\HD Monitor.exe.config
+C:\Users\LemonjaxDev\Documents\HD-Monitor\bin\Release\HDD_Busy.ico
+C:\Users\LemonjaxDev\Documents\HD-Monitor\bin\Release\HDD_Idle.ico
+C:\Users\LemonjaxDev\Documents\HD-Monitor\bin\Release\HD Monitor.exe
+C:\Users\LemonjaxDev\Documents\HD-Monitor\bin\Release\HD Monitor.pdb
+C:\Users\LemonjaxDev\Documents\HD-Monitor\obj\Release\HD_Monitor.HiddenForm.resources
+C:\Users\LemonjaxDev\Documents\HD-Monitor\obj\Release\HD_Monitor.Properties.Resources.resources
+C:\Users\LemonjaxDev\Documents\HD-Monitor\obj\Release\HD Monitor.csproj.GenerateResource.Cache
+C:\Users\LemonjaxDev\Documents\HD-Monitor\obj\Release\HD Monitor.exe
+C:\Users\LemonjaxDev\Documents\HD-Monitor\obj\Release\HD Monitor.pdb
